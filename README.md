@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **rimonron.ad@gmail.com**
 
-- 📄 Know about my experiences [<a href="https://drive.google.com/file/d/1II0-6LZC0nkZdNBaCS6KgbHaKtEPVHPX/view" target="_blank">Resume</a>](<a href="https://drive.google.com/file/d/1II0-6LZC0nkZdNBaCS6KgbHaKtEPVHPX/view" target="_blank">Resume</a>)
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1II0-6LZC0nkZdNBaCS6KgbHaKtEPVHPX/view" target="_blank">Resume</a>
 
 - ⚡ Fun fact **I think I am a good observer.**
 
