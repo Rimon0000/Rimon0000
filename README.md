@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/D5616AQH9p7tOvOv-_A/profile-displaybackgroundimage-shrink_350_1400/0/1691061532419?e=1712188800&v=beta&t=8mR4OckUwGts-QVPfNospsjO35ZzD6q6rFoPz3qxmbM)
+![MasterHead](https://i.ibb.co/t2QphSp/linkedinjpeg.jpg)
 
 <h1 align="center">Hi 👋, I'm Rimon Uddin</h1>
 <h3 align="center">A passionate MERN Stack developer from Bangladesh</h3>
